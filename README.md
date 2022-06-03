@@ -17,4 +17,4 @@
 4. Publish to Github
     1. Login to github account
     2. Push to github from vscode
-    
+5. Design Front End Layout
